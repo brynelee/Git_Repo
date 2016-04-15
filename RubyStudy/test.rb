@@ -220,3 +220,33 @@ puts Inside_two::CONST + CONST
 #puts Inside_one::CONST
 puts Inside_one::CONST.call + Inside_two::CONST
 
+=begin
+##################################################
+#Ruby的类定义
+定义
+
+attr_reader :name 只读（定义 name 方法）
+
+attr_writer :name 只写（定义 name= 方法）
+
+attr_accessor :name 读写（定义以上两个方法）
+
+也可以像下面这样只写一行代码，其效果与刚才的 name 方法以及 name= 方法的效果是一样的。
+
+class HelloWorld
+  attr_accessor :name
+end
+##################################################
+=end
+
+puts
+class Person
+  attr_accessor :name
+end
+
+aPerson = Person.new
+aPerson.name = "Xiaodong Li"
+p aPerson.name
+
+
+
