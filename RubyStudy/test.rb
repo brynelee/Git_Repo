@@ -255,5 +255,5 @@ puts aPerson.name+" by puts"
 ########################################
 #pretend to fix an issue called issue_004
 #assuming I'm working on something
-#add something more
+
 
