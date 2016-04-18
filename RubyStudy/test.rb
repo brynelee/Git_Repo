@@ -254,6 +254,6 @@ puts aPerson.name+" by puts"
 #99999
 ########################################
 #pretend to fix an issue called issue_004
-#assuming I'm working on something
+
 
 
