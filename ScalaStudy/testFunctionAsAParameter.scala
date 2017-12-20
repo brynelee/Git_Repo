@@ -1,5 +1,6 @@
 object testFunctionAsAParameter{
 
+
 	def inject( arr: Array[ Int], initial: Int) (operation: (Int, Int) => Int) : Int = { //多个参数列表的写法
 /*  def inject( arr: Array[ Int], initial: Int, operation: (Int, Int) => Int) : Int = { //一个参数列表的写法 */
 		var carryOver = initial 
