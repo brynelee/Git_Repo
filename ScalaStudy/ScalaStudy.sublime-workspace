@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"split",
+				"splitQuote"
+			],
+			[
+				"spli",
+				"splitQuote"
+			],
+			[
+				"stock",
+				"stockSymbol"
+			],
+			[
+				"proc",
+				"processTypes"
+			],
+			[
+				"pro",
+				"processTypes"
+			],
+			[
+				"pr",
+				"processTypes"
+			],
+			[
+				"S",
+				"Saturday"
+			],
+			[
+				"day",
+				"DayOfWeek"
+			],
+			[
+				"last",
+				"lastNames"
+			],
+			[
+				"total",
+				"totalChars"
+			],
+			[
+				"l",
+				"lastName"
+			],
+			[
+				"f",
+				"firstName"
+			],
+			[
+				"myW",
+				"myWriterProfanityLast"
+			],
+			[
+				"my",
+				"myWriterProfanityFirst"
+			],
+			[
+				"myWr",
+				"myWriterProfanityFirst"
+			],
+			[
+				"String",
+				"StringWriterDelegate"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"write",
+				"writeMessage"
+			],
+			[
+				"ca",
+				"carryOver"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "10 - 并发编程/testParVector.scala",
+			"settings":
+			{
+				"buffer_size": 497,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/10 - 并发编程",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/akka-quickstart-scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/akka-quickstart-scala/project",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/akka-quickstart-scala/sbt-dist"
+	],
+	"file_history":
+	[
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/10 - 并发编程/BecomeHulkExample.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/10 - 并发编程/AskTest.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/10 - 并发编程/FutureUsageDemo1.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/10 - 并发编程/GracefulStopTest.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/10 - 并发编程/testQiqiCount.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/10 - 并发编程/ParentChildDemo.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/10 - 并发编程/LifecycleDemo.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/akka-quickstart-scala/src/main/scala/com/lightbend/akka/sample/AkkaQuickstart.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/10 - 并发编程/FasterPerfectNumberFinder.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/ScalaStudy.sublime-project",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/8 - 使用容器/PersonTest.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/8 - 使用容器/listOperations.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/8 - 使用容器/operatorTest.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/8 - 使用容器/operatorTest2.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/8 - 使用容器/forTest.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/8 - 使用容器/forTest2.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/8 - 使用容器/forTest3.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/3 - 步入正轨/testFuncDef.scala",
+		"/Users/xiaodong/Library/Application Support/Sublime Text 3/Packages/User/scala.sublime-build",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/XDScalaModule/src/XDModuleTest1.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/7 - Trait和类型转换/MethodBinding.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/MethodBinding.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/testFunctionAsAParameter.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/FoldFuncDemo.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/container/PersonTest.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/TestOptionType.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/Car.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/Generics.scala",
+		"/Users/xiaodong/GitRoot/Git_Repo/ScalaStudy/DemoOfApplyUsage.scala",
+		"/Users/xiaodong/IdeaProjects/scala-sbt-test1/src/main/scala/SampleTest1.scala",
+		"/Users/xiaodong/Documents/企业工作/08 － 产品和解决方案/00 - 架构规划工作/00 - 主要参考材料/8-分布式核心/阿里MQ技术交底文档/MQ产品文档更新版/ProduceWithSpring(from demo).java",
+		"/Users/xiaodong/Documents/企业工作/08 － 产品和解决方案/00 - 架构规划工作/00 - 主要参考材料/8-分布式核心/阿里MQ技术交底文档/MQ产品文档更新版/producer(for demo).xml",
+		"/Users/xiaodong/Documents/企业工作/08 － 产品和解决方案/00 - 架构规划工作/00 - 主要参考材料/8-分布式核心/阿里MQ技术交底文档/MQ产品文档更新版/TransactionProducerClient.java",
+		"/Users/xiaodong/CMBCDevWorkspace/dcbs/app/depositmanagement/depositmanagement-batch-service/src/main/resources/spring/service/batch-dubbo-reference-as.xml",
+		"/Users/xiaodong/Library/Mobile Documents/iCloud~com~toketaware~ios~ithoughts/Documents/技术整理.markdown",
+		"/Applications/Atlassian/atlassian-plugin-sdk-6.2.4/apache-maven-3.2.1/conf/settings.xml",
+		"/Users/xiaodong/GitRoot/Git_Repo/RubyStudy/test.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/xiaodong/CMBCDevWorkspace/dcbs/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ICusPerCreateAService"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "10 - 并发编程/testParVector.scala",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/scala.sublime-build",
+	"project": "ScalaStudy.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
